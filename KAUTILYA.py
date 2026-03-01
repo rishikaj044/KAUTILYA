@@ -13,7 +13,7 @@ st.set_page_config(page_title="KAUTILYA", layout="wide")
 # OpenRouter → Chat + Quiz
 router_client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key="USE_YOUR_API_KEY"
 )
 
 
